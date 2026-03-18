@@ -4,7 +4,8 @@
 
 # 設計書
 
-設計書は以下のリポジトリで管理しています。
+設計書は以下のリポジトリで管理しています。  
+新規参加メンバーは、最初に設計書の内容を確認してください。
 - [project-management-sample-doc](https://github.com/project-management-sample/project-management-sample-doc)
 
 # ソースコード（テストコード含む）
